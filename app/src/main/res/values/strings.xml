@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CervejaApp</string>
+
+    <string-array name="BeerSize">
+        <item>amber</item>
+        <item>larger</item>
+        <item>pilsen</item>
+        <item>Ipa</item>
+        <item>bock</item>
+        <item>weiss</item>
+    </string-array>
+</resources>
